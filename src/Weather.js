@@ -1,4 +1,5 @@
-import React, { useState, UseState } from "react";
+import React from "react";
+import { useState } from "react";
 import axios from "axios";
 
 export default function Weather() {
